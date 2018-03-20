@@ -3,7 +3,8 @@
 ╚╗╔╝ ║ ├┤ ├┬┘│││  Tixlegeek < @tixlegeek - http://www.tixlegeek.io >
  ╚╝  ╩ └─┘┴└─┴ ┴  This code's purpose is to offer a nice, and smart terminal-like
 V1.0              display feature. It takes care of everything, just stuff it up
-                  with text, and pass it to the dumppiper.                   ```
+                  with text, and pass it to the dumppiper.                  
+```
 # VTERM
 This is vterm, a dumb-simple and smart tool to handle terminal-like display. It's aim is to provide a bullshit-free text-display management.
 I can't find better things to say about it, it's a little thing i made for a project, not a ground-breakin startup shit. I don't do shit, it makes people look like salesmen.
